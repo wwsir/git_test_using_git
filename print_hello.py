@@ -7,3 +7,5 @@ print('learn git is fun, right?')
 print('second line of git')
 
 print("to commit")
+
+print("to commit 2")
